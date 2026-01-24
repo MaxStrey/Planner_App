@@ -17,3 +17,10 @@ venv/
 # OS/editor junk
 .DS_Store
 .vscode/
+
+# Packaging/build artifacts
+*.egg-info/
+
+# Common build dirs
+build/
+dist/
