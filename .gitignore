@@ -1,0 +1,19 @@
+# Secrets (OAuth credentials, tokens)
+secrets/
+
+# Local database / data
+data/
+*.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor junk
+.DS_Store
+.vscode/
