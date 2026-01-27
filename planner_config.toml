@@ -1,0 +1,9 @@
+[calendar]
+# Treat these calendars as "busy" for planning.
+# You can use IDs (recommended) or later support names.
+work_calendar_ids = [
+  "c6fefb5ce3c8cc2e7fc6085f534f1d4eec7daab12c7d12da66660cea1d33a44b@group.calendar.google.com", # Classes
+  "419c4fc6123e498d845df1c602789a9444ce473daff2307b4888cbc72818a7dd@group.calendar.google.com", # Brooks lab work
+  "8a53656289fa8636967e1fc11e1591c77c0390ec418bb93785a00bd0f208e79f@group.calendar.google.com", # Office Hours
+  "58707b55f795d0636a0d629b4b7a78a9f134265e3c6a95fd5d2098887cff0e08@group.calendar.google.com"  # Exams
+]

@@ -11,6 +11,11 @@ requires-python = ">=3.9"
 authors = [{ name = "Planner App" }]
 dependencies = [
   "typer>=0.12",
+  "google-api-python-client",
+  "google-auth",
+  "google-auth-oauthlib",
+  "google-auth-httplib2",
+  "tomli; python_version < '3.11'",
 ]
 
 [project.optional-dependencies]
